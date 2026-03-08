@@ -27,7 +27,7 @@ The pipeline combines photometric measurements across multiple wavelengths to es
 
 Techniques explored include:
 
-- k-Nearest Neighbours
+- k-Nearest neighbours
 - Decision trees
 - Random forests
 - Neural networks
